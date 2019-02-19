@@ -1,0 +1,6 @@
+projectKey=sonardemo_codecoverage:codecoverage
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/sonardemo_codecoverage:codecoverage
+ceTaskId=AWkBKZAzt-0pl_I0P9LH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWkBKZAzt-0pl_I0P9LH
